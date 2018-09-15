@@ -111,6 +111,7 @@ h1 {
 /*     background-size:50px 50px; */
     height:500px;
     width: 100%;
+    visibility: hidden;
 }
 .banner div.slide_caption {
 	background: rgba(0, 0, 0, 0.0);
